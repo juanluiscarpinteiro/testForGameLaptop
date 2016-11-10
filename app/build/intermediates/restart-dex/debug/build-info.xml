@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="84533567707952"
+    token="-3467082731067946973"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="369" />
+    <task
+        name="instant-run-dex"
+        duration="318" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="84167648231565"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="84236775434051"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\builds\debug\84236775434051\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="84491733297068"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\builds\debug\84491733297068\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="84533567707952"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

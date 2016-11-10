@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_04b917fa6489144681ef1d2dac367fcb57115fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_dcdb9f338ab66610a075db7725d241461d96051a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3bf51fc435617d869ecb85e2a7132e9edd65817a">
+        <dex dex="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8d8f15aba55d0f7d80d0b775b4189c0454a44a50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_c01208d70be4420ce396165e6bb899c6a81098cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="383edc9a3faa1187a908a85b7c82a6060dc8669a">
+        <dex dex="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_216e34d6010dbc70c92c403b9e1252eeeb13dc2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\juan\AndroidStudioProjects\testForGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_ec1d0a7655c8853850c3547cbc50733596f95bb4\classes.dex" />
+    </item>
+
+</items>
